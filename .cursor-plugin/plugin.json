@@ -1,0 +1,14 @@
+{
+  "name": "typefully",
+  "displayName": "Typefully",
+  "version": "1.0.0",
+  "description": "Write, schedule, and publish social media posts on X, LinkedIn, Threads, Bluesky, Mastodon, and Substack via Typefully. Draft content, manage your posting queue, and check post analytics without leaving your editor.",
+  "author": {
+    "name": "Typefully",
+    "email": "support@typefully.com",
+    "url": "https://typefully.com"
+  },
+  "license": "MIT",
+  "keywords": ["typefully", "typefully draft", "typefully schedule", "typefully publish"],
+  "logo": "assets/logo.png"
+}
