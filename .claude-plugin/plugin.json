@@ -1,7 +1,7 @@
 {
   "name": "typefully",
   "version": "1.0.0",
-  "description": "Write, schedule, and publish social media posts on X, LinkedIn, Threads, Bluesky, Mastodon, and Substack via Typefully. Draft content, manage your posting queue, and check post analytics without leaving your editor.",
+  "description": "Social media scheduler for great writing on X (Twitter), LinkedIn, Substack, Threads, Bluesky, and Mastodon. Write, review, schedule, publish, and analyze posts across every social media account in your collaborative Typefully workspace.",
   "author": {
     "name": "Typefully",
     "url": "https://typefully.com"
@@ -9,5 +9,10 @@
   "repository": "https://github.com/typefully/typefully-plugin",
   "homepage": "https://typefully.com",
   "license": "MIT",
-  "keywords": ["typefully", "typefully draft", "typefully schedule", "typefully publish"]
+  "keywords": [
+    "typefully",
+    "typefully draft",
+    "typefully schedule",
+    "typefully publish"
+  ]
 }
